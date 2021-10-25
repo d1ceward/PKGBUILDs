@@ -11,6 +11,7 @@ My list of custom/maintained packages
 | mint                 | Yes         | https://aur.archlinux.org/packages/mint/                 |
 | mint-bin             | Yes         | https://aur.archlinux.org/packages/mint-bin/             |
 | netrc                | Yes         | https://aur.archlinux.org/packages/netrc/                |
+| nodenv-node-build    | No          | https://aur.archlinux.org/packages/nodenv-node-build/    |
 | plugn                | Yes         | https://aur.archlinux.org/packages/plugn/                |
 | procfile-util        | Yes         | https://aur.archlinux.org/packages/procfile-util/        |
 | sshcommand           | Yes         | https://aur.archlinux.org/packages/sshcommand/           |

@@ -11,6 +11,7 @@ My list of custom/maintained packages
 | mint                 | Yes         | https://aur.archlinux.org/packages/mint/                 |
 | mint-bin             | Yes         | https://aur.archlinux.org/packages/mint-bin/             |
 | lucky                | Yes         | https://aur.archlinux.org/packages/lucky/                |
+| lucky-git            | Yes         | https://aur.archlinux.org/packages/lucky-git/            |
 | netrc                | Yes         | https://aur.archlinux.org/packages/netrc/                |
 | nodenv-node-build    | Yes         | https://aur.archlinux.org/packages/nodenv-node-build/    |
 | plugn                | Yes         | https://aur.archlinux.org/packages/plugn/                |

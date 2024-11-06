@@ -7,6 +7,7 @@ My list of custom/maintained packages
 | docker-image-labeler           | Yes         | https://aur.archlinux.org/packages/docker-image-labeler/           |
 | dokku                          | Yes         | https://aur.archlinux.org/packages/dokku/                          |
 | gliderlabs-sigil               | Yes         | https://aur.archlinux.org/packages/gliderlabs-sigil/               |
+| go-bindata                     | Yes         | https://aur.archlinux.org/packages/go-bindata                      |
 | hd-idle-go                     | Yes         | https://aur.archlinux.org/packages/hd-idle-go/                     |
 | herokuish                      | Yes         | https://aur.archlinux.org/packages/herokuish/                      |
 | lucky                          | Yes         | https://aur.archlinux.org/packages/lucky/                          |
